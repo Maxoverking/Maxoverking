@@ -44,3 +44,7 @@ I am a Full Stack Developer
 ### :fire: My Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxoverking&layout=pie)](https://github.com/Maxoverking/github-readme-stats)
+
+---
+
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/Maxoverking?username=Maxoverking)](https://github.com/Maxoverking/github-readme-stats)
