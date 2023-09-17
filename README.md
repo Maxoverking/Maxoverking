@@ -49,7 +49,3 @@ I am a Full Stack Developer
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxoverking&theme=tokyonight&show_icons=true&count_private=true)
 
----
-
-### Joke
-The first 90% of the project takes 90% of the time. The remaining 10% takes another 90%
