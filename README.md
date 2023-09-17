@@ -13,4 +13,5 @@
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
-### :woman_technologist: About Me :
+
+### About Me :
