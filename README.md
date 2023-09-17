@@ -11,6 +11,6 @@
   <a href="https://t.me/Avemax7">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-</div>
----
+</div>---
+
 ### About Me :
