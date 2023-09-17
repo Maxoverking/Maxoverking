@@ -47,4 +47,4 @@ I am a Full Stack Developer
 
 ---
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/Maxoverking?username=Maxoverking)](https://github.com/Maxoverking/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxoverking&&theme=tokyonightshow=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
