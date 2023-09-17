@@ -41,7 +41,7 @@ I am a Full Stack Developer
 
 ---
 
-### :fire: My Stats :
+### :fire: My Statistic :
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxoverking&layout=compact&theme=dark)
 
@@ -51,5 +51,5 @@ I am a Full Stack Developer
 
 ---
 
-#### Joke
+### Joke
 The first 90% of the project takes 90% of the time. The remaining 10% takes another 90%
