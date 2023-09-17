@@ -43,4 +43,4 @@ I am a Full Stack Developer
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Maxoverking&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Maxoverking&theme=transparent&border_radius=0&fire=EB5454)](https://git.io/streak-stats)
