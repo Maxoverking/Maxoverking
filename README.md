@@ -1,5 +1,5 @@
-# Hello Welcome to my repository
-<div id="header" align="center">
+<div align="center">
+  <h1>Welcome to my repository</h1>
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
 </div>
 
